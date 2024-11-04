@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+auth/venv/
+gateway/venv/
+ml_services/venv/
+notification_service/venv/
+
+# Environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python package files
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Installed dependencies
+*.log
+pip-log.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Package manager directories
+node_modules/
