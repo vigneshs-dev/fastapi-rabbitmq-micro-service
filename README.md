@@ -1,22 +1,33 @@
-# 🚀 FastAPI Microservices Project
-
 <div align="center">
-  <img src="architecture-diagram.svg" alt="Architecture Diagram" width="800"/>
+  
+  <!-- Title Banner -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" height="100"/>
+  
+  # FastAPI Microservices Project
+  
+  [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+  <p align="center">
+    A modern microservices architecture showcasing FastAPI, ML processing, authentication, and real-time notifications
+    <br />
+    <a href="#-installation"><strong>Get Started »</strong></a>
+    <br />
+    <br />
+    <a href="#-services">Services</a>
+    ·
+    <a href="#-development-notes">Documentation</a>
+    ·
+    <a href="#-contributing">Contributing</a>
+  </p>
+
+  <!-- Decorative Line -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 </div>
 
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Architecture Diagram](#️-architecture-diagram)
-- [Services](#-services)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Development](#-development)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-
-## 🎯 Overview
-
-A modern microservices architecture built with FastAPI, featuring authentication, ML processing, notification services, and an API gateway. This project demonstrates best practices in microservices design and implementation.
 
 ## 🏗️ Architecture Diagram
 
@@ -71,6 +82,20 @@ The architecture consists of:
 4. Auth Service manages user data in PostgreSQL
 5. ML Service processes images and returns results
 6. Notification Service sends emails based on events
+
+
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Services](#-services)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Development](#-development)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+
+## 🎯 Overview
+
+A modern microservices architecture built with FastAPI, featuring authentication, ML processing, notification services, and an API gateway. This project demonstrates best practices in microservices design and implementation.
 
 ## 🔧 Services
 
