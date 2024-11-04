@@ -265,11 +265,7 @@ python main.py
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Check [CONTRIBUTING.md](CONTRIBUTING.md) file along with [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to contribute.
 
 ## 📝 License
 
@@ -277,5 +273,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 <div align="center">
-  Made with ❤️ by the FastAPI Microservices Team
+  Made with ❤️ by VigneshS
 </div>
