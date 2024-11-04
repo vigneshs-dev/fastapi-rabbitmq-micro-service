@@ -1,9 +1,11 @@
 <div align="center">
-  
-  <!-- Title Banner -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" height="100"/>
-  
-  # FastAPI Microservices Project
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  </div>
+
+  # ⚡️ FastAPI RabbitMQ Microservices Project
   
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -25,7 +27,7 @@
   </p>
 
   <!-- Decorative Line -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+  <hr style="width: 50%; margin: 30px auto; border: none; border-top: 1px solid #ccc;">
 </div>
 
 
