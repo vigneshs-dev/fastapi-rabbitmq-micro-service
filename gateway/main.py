@@ -11,8 +11,17 @@ import logging
 import os
 import jwt
 import rpc_client
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins; change this to specific origins if needed
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all HTTP methods; specify a list of methods if necessary
+    allow_headers=["*"],  # Allows all headers; specify if necessary
+)
+
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 # Load environment variables
